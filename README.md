@@ -3,6 +3,8 @@
 Sales Dashboard - Part 1
 Dashboard Purpose: The Sales Dashboard presents an overview of key sales metrics and trends to analyze year-over-year performance, understand sales dynamics, and identify areas for improvement.
 
+<img width="1206" alt="Dashboard Part 1" src="https://github.com/AkankshaBhujbal1994/Sales-Customer-Dashboards/assets/171846266/393a2874-582b-4364-a88d-461c1534f2b4"
+
 Key Requirements:
 
 KPI Overview:
@@ -22,6 +24,8 @@ Show average weekly values and highlight weeks above and below the average to dr
 
 Customer Dashboard - Part 2
 Dashboard Purpose: The Customer Dashboard aims to provide insights into customer data, trends, and behaviors to help marketing teams and management understand customer segments and improve satisfaction.
+
+<img width="1206" alt="Dashboard Part 2" src="https://github.com/AkankshaBhujbal1994/Sales-Customer-Dashboards/assets/171846266/67a1fe37-3930-4ee1-8d1d-f1875acaa5bd">
 
 Key Requirements:
 
