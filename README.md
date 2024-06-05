@@ -3,7 +3,7 @@
 Sales Dashboard - Part 1
 Dashboard Purpose: The Sales Dashboard presents an overview of key sales metrics and trends to analyze year-over-year performance, understand sales dynamics, and identify areas for improvement.
 
-<img width="1206" alt="Dashboard Part 1" src="https://github.com/AkankshaBhujbal1994/Sales-Customer-Dashboards/assets/171846266/393a2874-582b-4364-a88d-461c1534f2b4"
+<img width="1206" alt="Dashboard Part 1" src="https://github.com/AkankshaBhujbal1994/Sales-Customer-Dashboards/assets/171846266/393a2874-582b-4364-a88d-461c1534f2b4">
 
 Key Requirements:
 
