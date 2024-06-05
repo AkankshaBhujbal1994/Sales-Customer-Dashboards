@@ -22,6 +22,8 @@ Weekly Trends for Sales & Profit:
 Display weekly sales and profit data for the current year.
 Show average weekly values and highlight weeks above and below the average to draw attention to sales and profit performance.
 
+
+
 Customer Dashboard - Part 2
 Dashboard Purpose: The Customer Dashboard aims to provide insights into customer data, trends, and behaviors to help marketing teams and management understand customer segments and improve satisfaction.
 
